@@ -1,0 +1,14 @@
+360           # 360
+vivo          # vivo
+oppo          # oppo
+huawei        # 华为
+aliyun        # 阿里云
+anzhi         # 安智
+lenovo        # 联想
+ND            # N多市场
+xiaomi        # 小米
+meizu         # 魅族
+snmsung       # 三星
+baidu         # 百度
+wechat        # 微信
+website       # 官网
